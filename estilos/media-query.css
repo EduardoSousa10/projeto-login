@@ -28,11 +28,17 @@
     #login > #imagem {
         width: 50%;
         height: 100%;
-        float: left;
+        float: right;
     }
      #login > #formulario{
         width: 50%;
         height: 100%;
-        float: right;
+        float: left;
+    }
+    #formulario > h1{
+        font-size: 2em;
+    }
+    #formulario > p{
+        font-size: 1.2em;
     }
 }
